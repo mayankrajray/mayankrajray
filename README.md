@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-- 🎓 **B.Tech Computer Science** at Sitare University (2024 - 2027)
+- 🎓 **B.Tech Computer Science** at Sitare University (2024 - 2028)
 - 🏆 **100% Scholarship** recipient from Sitare Foundation
 - 💡 Passionate about building real-world applications with Python, Java & JavaScript
 - 🤖 Exploring **AI, Machine Learning** and **Data Analysis**
