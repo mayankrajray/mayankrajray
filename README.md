@@ -19,6 +19,7 @@
 - 💡 Passionate about building real-world applications with Python, Java & JavaScript
 - 🤖 Exploring **AI, Machine Learning** and **Data Analysis**
 - 📍 Based in **Lucknow, India**
+- 🔍 **Open to internships** (remote/hybrid) starting now, and full-time roles starting **May 15, 2027** (4th year onward)
 
 ---
 
@@ -43,27 +44,35 @@
 <table>
   <tr>
     <td width="50%">
+      <h4>📋 AppraiseHub — Employee Appraisal Platform</h4>
+      <p>A full-stack performance appraisal system with role-based workflows for Employees, Managers, and HR — appraisal cycles, self-assessments, manager reviews, goal tracking, and notifications. Spring Boot + JWT backend, React/Vite frontend, deployed live on Railway + Vercel.</p>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4169E1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    </td>
+    <td width="50%">
       <h4>🌤️ WeatherNow — Real-Time Weather App</h4>
       <p>A responsive weather app using HTML, CSS, and JavaScript with live API integration. Supports city-based search and geolocation-based detection, with real-time temperature display for any global location.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>📈 Stock Market Sentiment Analyzer</h4>
       <p>A full-stack sentiment analysis platform combining real-time market data with news-based scoring. Features interactive visualizations and API-driven data fetching — search any stock ticker for actionable insights.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>🔍 Stack Overflow Trend Analyzer</h4>
       <p>A data processing pipeline built with Python for trend analysis, covering data cleaning, transformation, and validation, with automated workflows and clear visualizations.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>🧠 BrainFlip — Memory Matching Game</h4>
       <p>An interactive card-matching game built with HTML, CSS, and JavaScript, featuring a real-time timer, move counter, flip animations, and game logic optimized for smooth gameplay.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
