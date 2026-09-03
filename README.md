@@ -77,17 +77,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrajray&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankrajray&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>Always open to collaborating on interesting projects — feel free to reach out.</i>
